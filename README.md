@@ -1,2 +1,1 @@
-# Analisis-Datos-Logistica-Walmart
-Optimización de ROI y Retención de Clientes usando análisis de datos y SQL.
+En este proyecto, analicé los datos de ventas para identificar qué canales tienen mejor retorno de inversión (ROI) y cómo mejorar la retención de clientes
